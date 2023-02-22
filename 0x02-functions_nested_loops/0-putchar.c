@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Reurn: Always 0
+ * Return: Always 0
  */
 
 int main(void)
@@ -18,5 +18,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-
 }
