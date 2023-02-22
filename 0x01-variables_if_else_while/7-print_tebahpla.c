@@ -12,7 +12,7 @@
 int main(void)
 
 {
-	chart low;
+	char low;
 
 	for (low = 'z'; low >= 'a'; low--)
 	putchar(low);
