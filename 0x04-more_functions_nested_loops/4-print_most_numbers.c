@@ -10,7 +10,7 @@ void print_most_numbers(void)
 
 {
 
-	int c = 0;
+	int x = 0;
 
 	for (; x <= 9; x++)
 	{
@@ -20,7 +20,7 @@ void print_most_numbers(void)
 	}
 	else
 	{
-	_Putchar(c + '0');
+	_Putchar(x + '0');
 	}
 	}
 	_Putchar('\n');
